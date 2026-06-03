@@ -1,0 +1,16 @@
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\bin\Debug\net10.0-windows\Elevatorproj.exe
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\bin\Debug\net10.0-windows\Elevatorproj.deps.json
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\bin\Debug\net10.0-windows\Elevatorproj.runtimeconfig.json
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\bin\Debug\net10.0-windows\Elevatorproj.dll
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\bin\Debug\net10.0-windows\Elevatorproj.pdb
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.Form1.resources
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.vbproj.GenerateResource.cache
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.AssemblyInfo.vb
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.vbproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.dll
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\refint\Elevatorproj.dll
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.pdb
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\Elevatorproj.genruntimeconfig.cache
+C:\Users\Admin\source\repos\Elevatorproj\Elevatorproj\obj\Debug\net10.0-windows\ref\Elevatorproj.dll
